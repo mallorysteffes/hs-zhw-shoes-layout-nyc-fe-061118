@@ -26,6 +26,11 @@ img.verif_img {
   width: 33%;
   float: right;
 }
+
+#column {
+  width: 33;
+}
+
 body {
   background: url(../images/handmadepaper.png);
 }
