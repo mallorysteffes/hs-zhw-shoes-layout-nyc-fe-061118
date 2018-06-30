@@ -28,16 +28,19 @@ img.verif_img {
 }
 
 #ladybugs {
+  box-sizing: border-box;
   width: 33%;
   float: right;
 }
 
 #skaters {
+  box-sizing: border-box;
   width: 33%;
   float: none;
 }
 
 #heels {
+  box-sizing: border-box;
   width: 33%;
   float: right;
 }
