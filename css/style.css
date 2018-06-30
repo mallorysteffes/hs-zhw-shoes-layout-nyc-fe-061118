@@ -36,7 +36,7 @@ img.verif_img {
 #skaters {
   box-sizing: border-box;
   width: 33%;
-  float: none;
+  float: left;
 }
 
 #heels {
