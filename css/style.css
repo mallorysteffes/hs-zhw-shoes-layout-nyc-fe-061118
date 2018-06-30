@@ -27,7 +27,7 @@ img.verif_img {
   float: right;
 }
 
-.column {
+#column1 {
   width: 33%;
   clear: none;
 }
