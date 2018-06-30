@@ -32,6 +32,16 @@ img.verif_img {
   clear: none;
 }
 
+#column2 {
+  width: 33%;
+  clear: none;
+}
+
+#column3 {
+  width: 33%;
+  clear: none;
+}
+
 body {
   background: url(../images/handmadepaper.png);
 }
