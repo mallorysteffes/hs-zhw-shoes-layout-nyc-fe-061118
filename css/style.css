@@ -17,7 +17,10 @@ img.verif_img {
 
 /********** Global **********/
 
-
+#summer-grass {
+  width: 66%;
+  float:left;
+}
 body {
   background: url(../images/handmadepaper.png);
 }
