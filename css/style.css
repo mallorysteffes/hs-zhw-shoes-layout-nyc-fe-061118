@@ -17,6 +17,35 @@ img.verif_img {
 
 /********** Global **********/
 
+#summer-grass {
+  width: 66%;
+  float: left;
+}
+
+#shoe-archive {
+  width: 33%;
+  float: right;
+}
+
+#ladybugs {
+  box-sizing: border-box;
+  width: 33%;
+  float: right;
+}
+
+#skaters {
+  box-sizing: border-box;
+  width: 33%;
+  float: left;
+}
+
+#heels {
+  box-sizing: border-box;
+  width: 33%;
+  float: left;
+  margin-left:5px;
+}
+
 body {
   background: url(../images/handmadepaper.png);
 }
