@@ -29,7 +29,7 @@ img.verif_img {
 
 #column1 {
   width: 33%;
-  clear: none;
+  float: left;
 }
 
 #column2 {
@@ -39,7 +39,7 @@ img.verif_img {
 
 #column3 {
   width: 33%;
-  clear: none;
+  float: right;
 }
 
 body {
