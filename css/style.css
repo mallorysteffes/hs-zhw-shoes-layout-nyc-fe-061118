@@ -34,7 +34,7 @@ img.verif_img {
 
 #skaters {
   width: 33%;
-  clear: left;
+  float: none;
 }
 
 #heels {
