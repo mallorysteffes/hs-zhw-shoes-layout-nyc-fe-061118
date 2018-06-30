@@ -42,7 +42,7 @@ img.verif_img {
 #heels {
   box-sizing: border-box;
   width: 33%;
-  float: right;
+  float: left;
 }
 
 body {
