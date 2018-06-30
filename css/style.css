@@ -18,11 +18,14 @@ img.verif_img {
 /********** Global **********/
 
 #summer-grass {
-  width: 66%;
+  width: 60%;
   float:left;
 }
 
-#shoe-archive
+#shoe-archive {
+  width: 30%;
+  float: right;
+}
 body {
   background: url(../images/handmadepaper.png);
 }
