@@ -43,6 +43,7 @@ img.verif_img {
   box-sizing: border-box;
   width: 33%;
   float: left;
+  margin-left:5px;
 }
 
 body {
